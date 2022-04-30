@@ -2,7 +2,7 @@
 # Basic Bot template
 
 This bot has been created using [Microsoft Bot Framework](https://dev.botframework.com),
-MADE BY-AMAN SINGH
+MADE BY-RAJEEV SINGH
 
 This samples shows how to:
 - Use [LUIS](https://luis.ai) to implement core AI capabilities
